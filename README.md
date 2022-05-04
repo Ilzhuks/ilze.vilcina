@@ -33,4 +33,4 @@ Pašlaik liela interese ir par testešanu, ipaši par automatisko testešanu.
 ## **Kalni**
 Pedeja celojuma laika beidzot sanaca aizbraukt uz kalniem. Superigas emocijas, vienreizeji skati un noteikti ne pedejais celojums uz kalniem.
 Ka var nepatikt šads skaistums?
-.md img/
+.md img/kalni.jpg
